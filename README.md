@@ -10,4 +10,4 @@ probability density shape. Which is in the "Cauchy–Lorentz distribution.pdf" f
 
 In the Spiking_Neural_Networks.m file, I made parameters for Regular spiking neurons, Fast spiking neurons, and Low threshold spiking neurons. In each type of spiking neuron, I checked how much the results of the simulation differ between the SNN(Single Population Neuron Network) and the Mean-field model.
 
-As we can confirm from the results of the PDF files, the simulations quite well follow the paper.
+As we can confirm from the results in the PDF files, the simulations quite well follow the paper.
